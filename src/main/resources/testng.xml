@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="maven1Suite">
+  <test name="maven1Test">
+  
+  
+    <classes>
+    
+    <class name="maventestspractice.MvmdemoTest"/>
+      <class name="maventestspractice.Mvmdemo1Test"/>
+      <class name="maventestspractice.Mvmdemo2Test"/>
+      <class name="maventestspractice.Mvmdemo3Test"/>
+      
+    </classes>
+    
+    
+  </test> <!-- maven1Test -->
+</suite> <!-- maven1Suite -->

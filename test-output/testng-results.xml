@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="194" started-at="2020-08-07T13:11:51 IST" finished-at="2020-08-07T13:11:51 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="194" started-at="2020-08-07T13:11:51 IST" finished-at="2020-08-07T13:11:51 IST">
+      <class name="maventestspractice.MvmdemoTest">
+        <test-method status="PASS" signature="addTest()[pri:1, instance:maventestspractice.MvmdemoTest@22a67b4]" name="addTest" duration-ms="28" started-at="2020-08-07T13:11:51 IST" finished-at="2020-08-07T13:11:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+        <test-method status="PASS" signature="subTest()[pri:2, instance:maventestspractice.MvmdemoTest@22a67b4]" name="subTest" duration-ms="2" started-at="2020-08-07T13:11:51 IST" finished-at="2020-08-07T13:11:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subTest -->
+        <test-method status="PASS" signature="mulTest()[pri:3, instance:maventestspractice.MvmdemoTest@22a67b4]" name="mulTest" duration-ms="2" started-at="2020-08-07T13:11:51 IST" finished-at="2020-08-07T13:11:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mulTest -->
+      </class> <!-- maventestspractice.MvmdemoTest -->
+      <class name="maventestspractice.Mvmdemo3Test">
+        <test-method status="PASS" signature="addTest()[pri:1, instance:maventestspractice.Mvmdemo3Test@57855c9a]" name="addTest" duration-ms="2" started-at="2020-08-07T13:11:51 IST" finished-at="2020-08-07T13:11:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+        <test-method status="PASS" signature="subTest()[pri:2, instance:maventestspractice.Mvmdemo3Test@57855c9a]" name="subTest" duration-ms="1" started-at="2020-08-07T13:11:51 IST" finished-at="2020-08-07T13:11:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subTest -->
+        <test-method status="PASS" signature="mulTest()[pri:3, instance:maventestspractice.Mvmdemo3Test@57855c9a]" name="mulTest" duration-ms="2" started-at="2020-08-07T13:11:51 IST" finished-at="2020-08-07T13:11:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mulTest -->
+      </class> <!-- maventestspractice.Mvmdemo3Test -->
+      <class name="maventestspractice.Mvmdemo2Test">
+        <test-method status="PASS" signature="addTest()[pri:1, instance:maventestspractice.Mvmdemo2Test@3b084709]" name="addTest" duration-ms="4" started-at="2020-08-07T13:11:51 IST" finished-at="2020-08-07T13:11:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+        <test-method status="PASS" signature="subTest()[pri:2, instance:maventestspractice.Mvmdemo2Test@3b084709]" name="subTest" duration-ms="5" started-at="2020-08-07T13:11:51 IST" finished-at="2020-08-07T13:11:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subTest -->
+        <test-method status="PASS" signature="mulTest()[pri:3, instance:maventestspractice.Mvmdemo2Test@3b084709]" name="mulTest" duration-ms="2" started-at="2020-08-07T13:11:51 IST" finished-at="2020-08-07T13:11:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mulTest -->
+      </class> <!-- maventestspractice.Mvmdemo2Test -->
+      <class name="maventestspractice.Mvmdemo1Test">
+        <test-method status="PASS" signature="addTest()[pri:1, instance:maventestspractice.Mvmdemo1Test@3224f60b]" name="addTest" duration-ms="2" started-at="2020-08-07T13:11:51 IST" finished-at="2020-08-07T13:11:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+        <test-method status="PASS" signature="subTest()[pri:2, instance:maventestspractice.Mvmdemo1Test@3224f60b]" name="subTest" duration-ms="2" started-at="2020-08-07T13:11:51 IST" finished-at="2020-08-07T13:11:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subTest -->
+        <test-method status="PASS" signature="mulTest()[pri:3, instance:maventestspractice.Mvmdemo1Test@3224f60b]" name="mulTest" duration-ms="2" started-at="2020-08-07T13:11:51 IST" finished-at="2020-08-07T13:11:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mulTest -->
+      </class> <!-- maventestspractice.Mvmdemo1Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
